@@ -1,12 +1,9 @@
 {
   "files": {
-    "main.css": "/css/styles.css",
-    "main.js": "/js/bundle.js",
-    "assets/globals.scss": "/assets/3352653dedd571bbc490c8be132b38cd.ttf",
-    "css/styles.css.map": "/css/styles.css.map",
+    "todos.js": "/todos.js",
+    "users.js": "/users.js",
     "favicon.ico": "/favicon.ico",
     "index.html": "/index.html",
-    "js/bundle.js.LICENSE": "/js/bundle.js.LICENSE",
     "logo_192.png": "/logo_192.png",
     "logo_512.png": "/logo_512.png",
     "manifest.json": "/manifest.json",
